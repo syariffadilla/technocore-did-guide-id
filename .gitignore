@@ -1,0 +1,6 @@
+# Ignore private key and environment files
+*.pem
+*.key
+.env
+.venv/
+__pycache__/
